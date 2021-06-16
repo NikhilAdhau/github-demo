@@ -12,4 +12,7 @@ def divide(x, y):
         return "Error"
     else:
         return x / y
+   
+def cube(x):
+    return x ** 3
 
